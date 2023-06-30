@@ -1,0 +1,1 @@
+# industry standard project compete structure
